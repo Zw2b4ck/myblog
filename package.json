@@ -1,0 +1,22 @@
+{
+  "name": "my-blog",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.34",
+    "@fortawesome/free-solid-svg-icons": "^5.15.2",
+    "@fortawesome/vue-fontawesome": "^2.0.2",
+    "@gridsome/source-contentful": "^0.6.0",
+    "contentful": "^8.1.7",
+    "gridsome": "^0.7.0",
+    "markdown-it": "^12.0.4",
+    "tailwindcss": "^2.0.2"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^4.0.0"
+  }
+}
